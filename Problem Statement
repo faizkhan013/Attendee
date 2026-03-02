@@ -1,0 +1,4 @@
+Attendence recording system using  gmail 
+at the end of each class the teacher records the present student roll no in wp , or any note taking system . The py script gives us the % of attendence for each student in the class  of 64 students .
+
+It sends the attendence % to each student in html using gmail.
